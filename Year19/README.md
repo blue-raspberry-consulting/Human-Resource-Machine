@@ -1,3 +1,9 @@
 # Year 19 - Countdown
 
-![Solution for speed & size](solution.JPEG "Solution")
+## Speed Solution
+
+![Solution for speed](speedSolution.JPEG "Speed Solution")
+
+## Size Solution
+
+![Solution for size](sizeSolution.JPEG "Size Solution")
