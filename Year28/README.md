@@ -1,7 +1,5 @@
 # Year 28 - Three Sort
 
-# TODO
-
 ## Speed Solution
 
 ![Solution for speed](speedSolution.JPEG "Speed Solution")
