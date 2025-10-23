@@ -49,12 +49,12 @@ Solutions for [Human Resource Machine](https://tomorrowcorporation.com/humanreso
 | Year 31 | [String Reverse](Year31/README.md)	      | [Video](https://www.youtube.com/watch?v=A-VxIM0lfSI) | &#x2705;                |
 | Year 32 | [Inventory Report](Year32/README.md) 	   | [Video](https://www.youtube.com/watch?v=A-VxIM0lfSI) | &#x2705;                |
 | Year 33 | Where's Carol?                           |                                                      | &#x2615;                |
-| Year 34 | [Vowel Incinerator](Year34/README.md)    |                                                      | &#x2705;                |
-| Year 35 | [Duplicate Removal](Year35/README.md)    |                                                      | &#x2705;                |
-| Year 36 | [Alphabetizer](Year36/README.md)	        |                                                      | &#x2705;                |
-| Year 37 | [Scavenger Chain](Year37/README.md)      |                                                      | &#x2705;                |
-| Year 38 | [Digit Exploder](Year38/README.md)       |                                                      | &#x274C;                |
-| Year 39 | [Re-Coordinator](Year39/README.md)       |                                                      | &#x2705;                |
-| Year 40 | [Prime Factory](Year40/README.md)        |                                                      | &#x2705;                |
-| Year 41 | [Sorting Floor](Year41/README.md)        |                                                      | &#x2705;                |
+| Year 34 | [Vowel Incinerator](Year34/README.md)    | [Video](https://www.youtube.com/watch?v=jkUEzxi4VCY) | &#x2705;                |
+| Year 35 | [Duplicate Removal](Year35/README.md)    | [Video](https://www.youtube.com/watch?v=jkUEzxi4VCY) | &#x2705;                |
+| Year 36 | [Alphabetizer](Year36/README.md)	        | [Video](https://www.youtube.com/watch?v=jkUEzxi4VCY) | &#x2705;                |
+| Year 37 | [Scavenger Chain](Year37/README.md)      | [Video](https://www.youtube.com/watch?v=jkUEzxi4VCY) | &#x2705;                |
+| Year 38 | [Digit Exploder](Year38/README.md)       | [Video](https://www.youtube.com/watch?v=jkUEzxi4VCY) | &#x274C;                |
+| Year 39 | [Re-Coordinator](Year39/README.md)       |       [Video](https://www.youtube.com/watch?v=3Ig9WaJUDRE)                                               | &#x2705;                |
+| Year 40 | [Prime Factory](Year40/README.md)        |    [Video](https://www.youtube.com/watch?v=3Ig9WaJUDRE)                                                  | &#x2705;                |
+| Year 41 | [Sorting Floor](Year41/README.md)        |   [Video](https://www.youtube.com/watch?v=3Ig9WaJUDRE)                                                   | &#x2705;                |
 | Year 42 | End Program. Congratulations.            |                                                      | &#x2615;                |
